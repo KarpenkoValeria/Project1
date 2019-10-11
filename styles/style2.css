@@ -1,0 +1,30 @@
+.description {
+font-size: 10pt;
+font-style: normal;
+color: red;
+
+}
+
+.description1 {
+    font-style: italic;
+    font-size: 15pt;
+    color: blue
+    
+}
+
+.description2 {
+font-style: oblique;
+font-size: 20pt;
+color: violet
+}
+
+h1 {
+    text-align: center;
+}
+
+.hederred {
+    color: red;
+}
+h2 {
+    text-align: center;
+}
